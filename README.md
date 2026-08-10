@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/daydream2408/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/daydream2408/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/daydream2408/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/daydream2408/leetcode/tree/master/0283-move-zeroes) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/daydream2408/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/daydream2408/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/daydream2408/leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/daydream2408/leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/daydream2408/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

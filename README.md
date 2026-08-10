@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/daydream2408/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/daydream2408/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/daydream2408/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/daydream2408/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/daydream2408/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/daydream2408/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/daydream2408/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/daydream2408/leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daydream2408/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/daydream2408/leetcode/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/daydream2408/leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -68,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/daydream2408/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/daydream2408/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/daydream2408/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

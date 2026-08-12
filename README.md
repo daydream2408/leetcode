@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/daydream2408/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/daydream2408/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/daydream2408/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/daydream2408/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/daydream2408/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/daydream2408/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/daydream2408/leetcode/tree/master/0189-rotate-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/daydream2408/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/daydream2408/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/daydream2408/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/daydream2408/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/daydream2408/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/daydream2408/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/daydream2408/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/daydream2408/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/daydream2408/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/daydream2408/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/daydream2408/leetcode/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/daydream2408/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/daydream2408/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/daydream2408/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |

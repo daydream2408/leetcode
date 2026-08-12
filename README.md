@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daydream2408/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/daydream2408/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/daydream2408/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/daydream2408/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/daydream2408/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/daydream2408/leetcode/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daydream2408/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/daydream2408/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/daydream2408/leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/daydream2408/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/daydream2408/leetcode/tree/master/0575-distribute-candies) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/daydream2408/leetcode/tree/master/0206-reverse-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/daydream2408/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

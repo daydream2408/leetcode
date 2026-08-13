@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/daydream2408/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/daydream2408/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/daydream2408/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/daydream2408/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/daydream2408/leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/daydream2408/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/daydream2408/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |

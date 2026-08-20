@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/daydream2408/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/daydream2408/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/daydream2408/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/daydream2408/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/daydream2408/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/daydream2408/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
 | ------- |

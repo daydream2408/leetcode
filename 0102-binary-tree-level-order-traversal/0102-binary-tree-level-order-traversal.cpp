@@ -14,7 +14,7 @@ public:
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> ans;
         if(root==NULL)return ans;
-        TreeNode* node =root;
+       // TreeNode* node =root;
          queue<TreeNode*>st;
          st.push(root);
 

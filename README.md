@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/daydream2408/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/daydream2408/leetcode/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/daydream2408/leetcode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/daydream2408/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/daydream2408/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/daydream2408/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/daydream2408/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/daydream2408/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0860-lemonade-change](https://github.com/daydream2408/leetcode/tree/master/0860-lemonade-change) |
 ## Simulation
 |  |
 | ------- |

@@ -1,42 +1,44 @@
 class Solution {
 public:
-    int minDays(vector<int>& arr, int m, int k) {
-        int low=0;
-        int high=0;
-       // int boq=0;
-        int ans=-1;
+    int minDays(vector<int>& nums, int m, int k) {
+        if((long long ) m*k>nums.size()) return -1;
 
-        if(((long long )m*k)>arr.size()) return -1;
+      int high=0;
+      int low=INT_MAX;
+      for(int i: nums){
+        high=max(high,i);
+        low=min(low,i);
+      }
+      int ans=0;
 
-        for(int i:arr){
-            high=max(high,i);
-            low=min(low,i);
-        }
+      while(low<=high){
 
-        while(low<=high){
-            int mid=(low+high)/2;
-            int boq=0;
-            int count=0;
-            for(int i=0; i<arr.size(); i++){
+        int mid=(low+high)/2;
 
-                // if(count==k) {
-                //     boq++;
-                //     count=0;
-                // }
-                if(arr[i]<=mid) count++;
-                else  {
-                    boq+=  count/k;
-                    count =0;}
+            int flowers=0;
+            int boque=0;
+
+        for(int i=0; i<nums.size(); i++){
+
+            if(mid>=nums[i]){
+                flowers++;
+
+            if(flowers==k){
+                boque++;
+                flowers=0;
             }
-            boq+=count/k;
-
-            if(boq<m) low=mid+1;
-            else {
-                ans = mid;
-                high = mid-1;
 
             }
+            else flowers=0;
         }
-        return ans;
+
+        if(boque>=m){
+            ans=mid;
+            high=mid-1;
+        }
+
+        else low=mid+1;
+      }
+      return ans;
     }
 };

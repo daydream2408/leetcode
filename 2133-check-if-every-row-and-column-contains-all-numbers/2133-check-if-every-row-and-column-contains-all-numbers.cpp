@@ -13,27 +13,25 @@ public:
     bool checkValid(vector<vector<int>>& matrix) {
         int n= matrix.size();
 
-        vector<int> hash(n+1,false);
+        vector<int> row(n+1,false);
+        vector<int> column(n+1,false);
 
         for(int i=0; i<n ; i++){
-             fill(hash.begin(), hash.end(), false);
+             fill(row.begin(), row.end(), false);
+             fill(column.begin(), column.end(), false);
             for(int j=0; j<n; j++){
-                if(hash[matrix[i][j]]==true) return false;
-                hash[matrix[i][j]]=true;
+                if(row[matrix[i][j]]==true) return false;
+                row[matrix[i][j]]=true;
+
+                  if(column[matrix[j][i]]==true) return false;
+                column[matrix[j][i]]=true;
             }
-           if(!checkhash(hash)) return false;
+           if(!checkhash(row)) return false;
+           if(!checkhash(column)) return false;
           
         }
 
-        for(int i=0; i<n ; i++){
-              fill(hash.begin(), hash.end(), false);
-            for(int j=0; j<n; j++){
-                if(hash[matrix[j][i]]==true) return false;
-                hash[matrix[j][i]]=true;
-            }
-           if(!checkhash(hash)) return false;
-         
-        }
+      
         return true;
     }
 };

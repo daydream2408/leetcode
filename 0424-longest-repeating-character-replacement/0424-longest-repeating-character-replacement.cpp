@@ -21,7 +21,7 @@ while(r<s.size()){
         }
         else{
             hash[s[l]-'A']--;
-            for(int i=0; i<25;i++) maxfreq=max(maxfreq,hash[i]);
+          //  for(int i=0; i<25;i++) maxfreq=max(maxfreq,hash[i]);
             l++;
         }
         r++;

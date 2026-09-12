@@ -1,9 +1,16 @@
 class Solution {
 public:
+void dfs(int node, vector<vector<int>>&adj, vector<int>&vis){
+    vis[node]=1;
+    for(auto neghbours: adj[node]){
+        if(!vis[neghbours]){
+         dfs(neghbours,adj,vis);
+        }
+    }
+}
     int findCircleNum(vector<vector<int>>& mat) {
         int n=mat.size();
-
-        //create adjecency list
+                //create adjecency list
         vector<vector<int>> adj(n + 1);
         for(int i=0; i<n;i++){
             for(int j=0;j<n;j++){
@@ -13,36 +20,16 @@ public:
                 }
             }
         }
-          vector<int> vis(n,0);
-         // vis[1]=1;
-         
-           int count=0;
+          
+       vector<int>vis(n,0);
+       int count=0;
 
-         for (int i = 0; i < n; i++) {
-
-    if (!vis[i]) {
-
-        count++;
-
-        queue<int> q;
-        q.push(i);
-        vis[i] = 1;
-
-        while (!q.empty()) {
-
-            int node = q.front();
-            q.pop();
-
-            for (auto neighbour : adj[node]) {
-
-                if (!vis[neighbour]) {
-                    vis[neighbour] = 1;
-                    q.push(neighbour);
-                }
-            }
+       for(int i=0;i<n;i++ ){
+        if(!vis[i]){
+            count++;
+            dfs(i,adj,vis);
         }
-    }
-}
-        return count;
+       }
+return count;
     }
 };

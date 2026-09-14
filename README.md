@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/daydream2408/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/daydream2408/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/daydream2408/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/daydream2408/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/daydream2408/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/daydream2408/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/daydream2408/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/daydream2408/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/daydream2408/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/daydream2408/leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/daydream2408/leetcode/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/daydream2408/leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/daydream2408/leetcode/tree/master/0994-rotting-oranges) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/daydream2408/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Backtracking
 |  |

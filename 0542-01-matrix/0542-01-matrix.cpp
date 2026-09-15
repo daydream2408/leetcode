@@ -25,7 +25,7 @@ public:
         int col = q.front().first.second;
         int dist= q.front().second;
         q.pop();
-        // dis[row][col]=dist;
+         dis[row][col]=dist;
 
          for(int i=0; i<4; i++){
             int nr = row+dr[i];
@@ -35,7 +35,7 @@ public:
                nc<m && nc>=0 && vis[nr][nc]==0){
                 vis[nr][nc]=1;
                 
-                dis[nr][nc]=dist+1;
+                //dis[nr][nc]=dist+1;
                 q.push({{nr,nc},dist+1});
                }
          }

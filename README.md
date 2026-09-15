@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/daydream2408/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/daydream2408/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/daydream2408/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/daydream2408/leetcode/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/daydream2408/leetcode/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/daydream2408/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/daydream2408/leetcode/tree/master/0733-flood-fill) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/daydream2408/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daydream2408/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/daydream2408/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0542-01-matrix](https://github.com/daydream2408/leetcode/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/daydream2408/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/daydream2408/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/daydream2408/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/daydream2408/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/daydream2408/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/daydream2408/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/daydream2408/leetcode/tree/master/0994-rotting-oranges) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/daydream2408/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/daydream2408/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/daydream2408/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/daydream2408/leetcode/tree/master/0994-rotting-oranges) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/daydream2408/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |

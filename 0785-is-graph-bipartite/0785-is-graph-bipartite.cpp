@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-bool checkeachnode(vector<vector<int>>&graph, int start,vector<int>color){
+bool checkeachnode(vector<vector<int>>&graph, int start,vector<int>&color){
      int n=graph.size();
       //  vector<int>color(n,-1);
         color[start]=0;

@@ -6,7 +6,7 @@ public:
 
         int n = grid.size();
 
-        vector<vector<int>> vis(n, vector<int>(n, 0));
+      //  vector<vector<int>> vis(n, vector<int>(n, 0));
         int count = 1;
         queue<pair<pair<int, int>,int>> q;
         q.push({{0, 0},1});
@@ -29,10 +29,10 @@ public:
                 int r = row + dr[i];
                 int c = col + dc[i];
 
-                if (r < n && r >= 0 && c < n && c >= 0 && grid[r][c] == 0 &&
-                    vis[r][c] == 0) {
+                if (r < n && r >= 0 && c < n && c >= 0 && grid[r][c] == 0 
+                    ) {
                     q.push({{r, c},step+1});
-                    vis[r][c] = 1;
+                    grid[r][c] = 1;
                    // flag = true;
                 }
             }

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/daydream2408/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/daydream2408/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/daydream2408/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/daydream2408/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/daydream2408/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/daydream2408/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/daydream2408/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/daydream2408/leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/daydream2408/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/daydream2408/leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/daydream2408/leetcode/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/daydream2408/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/daydream2408/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/daydream2408/leetcode/tree/master/0542-01-matrix) |

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/daydream2408/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/daydream2408/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/daydream2408/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/daydream2408/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/daydream2408/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/daydream2408/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daydream2408/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/daydream2408/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daydream2408/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/daydream2408/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/daydream2408/leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/daydream2408/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/daydream2408/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/daydream2408/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/daydream2408/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/daydream2408/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/daydream2408/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/daydream2408/leetcode/tree/master/0542-01-matrix) |
